@@ -52,7 +52,7 @@ emphasized as not yet set. The id will be the index in the database.
 * **GET** http://\<host\>:\<port\>/books\<id\>
 >With the id provided as a path variable you can also make a filtering of the results.
 >
->* **DEL** http://\<host\>:\<port\>/books
+* **DEL** http://\<host\>:\<port\>/books
 > Deletes all the entries found in the database.
 * **DEL** http://\<host\>:\<port\>/books\<id\>
  >It deletes an entry according to the id given.

@@ -4,11 +4,6 @@
     <list default="true" id="f1507afd-821a-4cda-a2b2-40ec35659dc9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/springBootApp/bookJournal/BookJournalApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/springBootApp/bookJournal/BookJournalApplication.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/springBootApp/bookJournal/controller/BookController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/springBootApp/bookJournal/controller/BookController.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/springBootApp/bookJournal/model/BookDTO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/springBootApp/bookJournal/model/BookDTO.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/springBootApp/bookJournal/service/BookService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/springBootApp/bookJournal/service/BookService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/springBootApp/bookJournal/service/model/Book.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/springBootApp/bookJournal/service/model/Book.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
