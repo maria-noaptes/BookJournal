@@ -23,6 +23,7 @@ data class BookDTO(
         val status: StatusDTO = bookDTO.status
         val startDate: String = bookDTO.startDate
         val finishDate: String = bookDTO.finishDate
+        var review: String=bookDTO.review
     }
 
     fun toBook(): Book =

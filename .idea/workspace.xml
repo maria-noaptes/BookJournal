@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f1507afd-821a-4cda-a2b2-40ec35659dc9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/springBootApp/bookJournal/model/BookDTO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/springBootApp/bookJournal/model/BookDTO.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
