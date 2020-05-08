@@ -8,7 +8,7 @@ the time you spent on each and of the current status of the reading (so you mayb
  
 ###Development
 #####Spring Boot RESTFul Api
-This is a application made in Intellij Idea using Kotlin and the Spring Boot Framework.
+This is an application made in Intellij Idea using Kotlin and the Spring Boot Framework.
 It works as a server that can receive requests according to the following protocol:
 A book is an object containing an automatically generated id, a title, an author, a status and the date times of the beginning and finishing of a reading.
 Example:<br>
@@ -31,7 +31,7 @@ Example:<br>
 ><br>
 >The rest of the fields are automatically generated: the status will be set as STARTED and the
 > start date is set according to the current date (using LocalDateTime). The finish date is
-emphasized as not set yet. The id will be the index in the database.
+emphasized as not yet set. The id will be the index in the database.
 
 * **PUT** http://\<host\>:\<port\>/books/\<id\>
 >\+ body (status is required) in json format. Here is an example:
@@ -49,7 +49,7 @@ emphasized as not set yet. The id will be the index in the database.
 >This request returns all the entries in the database.
 
 * **GET** http://\<host\>:\<port\>/books\<id\>
->With the id provided as path variable you can also make a filtering of the results.
+>With the id provided as a path variable you can also make a filtering of the results.
 >
 * **DEL** http://\<host\>:\<port\>/books\<id\>
  >It deletes an entry according to the id given.
