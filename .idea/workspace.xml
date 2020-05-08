@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1507afd-821a-4cda-a2b2-40ec35659dc9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1b1N5ELFOn2gRm3YoRFfY8ylxlj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/demo" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.1150748" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Maria\PycharmProjects\bookJournal\src\main\kotlin\com\springBootApp\bookJournal\repository" />
+      <recent name="C:\Users\Maria\PycharmProjects\bookJournal" />
+      <recent name="C:\Users\Maria\PycharmProjects\bookJournal\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.BookJournalApplicationKt">
+    <configuration name="bookJournal" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="BookJournalApplicationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="bookJournal.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.springBootApp.bookJournal.BookJournalApplicationKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.bookJournal" />
+      <item itemvalue="Kotlin.BookJournalApplicationKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.BookJournalApplicationKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1507afd-821a-4cda-a2b2-40ec35659dc9" name="Default Changelist" comment="" />
+      <created>1587795454200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587795454200</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1587820594774">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587820594774" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587821593649">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587821593649" />
+    <state x="474" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1588713537824">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="474" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1588713537824" />
+    <state x="694" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587810681878">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="694" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1587810681878" />
+    <state x="378" y="224" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1588442663938">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="224" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1588442663938" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1588515656386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588515656386" />
+    <state width="639" height="17" key="GridCell.Tab.0.bottom" timestamp="1588897460905">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="639" height="17" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588897460905" />
+    <state width="639" height="17" key="GridCell.Tab.0.center" timestamp="1588897460904">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="639" height="17" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588897460904" />
+    <state width="639" height="17" key="GridCell.Tab.0.left" timestamp="1588897460903">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="639" height="17" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588897460903" />
+    <state width="639" height="17" key="GridCell.Tab.0.right" timestamp="1588897460905">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="639" height="17" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588897460905" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1588446589972">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588446589972" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1588941009407">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588941009407" />
+    <state x="65" y="88" key="new project wizard" timestamp="1587809515127">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="88" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587809515127" />
+  </component>
+</project>
