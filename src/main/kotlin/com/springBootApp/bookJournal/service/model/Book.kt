@@ -7,11 +7,11 @@ import java.time.LocalDateTime
 @Document ("books")
 data class Book(
         @Id var id: String = "",
-        val title: String = "",
-        val author: String = "",
-        val status: Status = Status.STARTED,
+        var title: String = "",
+        var author: String = "",
+        var status: Status = Status.STARTED,
         val startDate: String = LocalDateTime.now().dayOfMonth.toString()+"."+LocalDateTime.now().month.value+"."+LocalDateTime.now().year,
-        val finishDate: String = "not set"
+        var finishDate: String = "not set"
 )
 enum class Status {
     STARTED,

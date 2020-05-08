@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1507afd-821a-4cda-a2b2-40ec35659dc9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/springBootApp/bookJournal/controller/BookController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/springBootApp/bookJournal/controller/BookController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/springBootApp/bookJournal/service/BookService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/springBootApp/bookJournal/service/BookService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/springBootApp/bookJournal/service/model/Book.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/springBootApp/bookJournal/service/model/Book.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,22 +142,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588515656386" />
-    <state width="639" height="17" key="GridCell.Tab.0.bottom" timestamp="1588897460905">
+    <state width="1323" height="150" key="GridCell.Tab.0.bottom" timestamp="1588968891425">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="639" height="17" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588897460905" />
-    <state width="639" height="17" key="GridCell.Tab.0.center" timestamp="1588897460904">
+    <state width="1323" height="150" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588968891425" />
+    <state width="1323" height="150" key="GridCell.Tab.0.center" timestamp="1588968891425">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="639" height="17" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588897460904" />
-    <state width="639" height="17" key="GridCell.Tab.0.left" timestamp="1588897460903">
+    <state width="1323" height="150" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588968891425" />
+    <state width="1323" height="150" key="GridCell.Tab.0.left" timestamp="1588968891424">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="639" height="17" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588897460903" />
-    <state width="639" height="17" key="GridCell.Tab.0.right" timestamp="1588897460905">
+    <state width="1323" height="150" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588968891424" />
+    <state width="1323" height="150" key="GridCell.Tab.0.right" timestamp="1588968891425">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="639" height="17" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588897460905" />
+    <state width="1323" height="150" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588968891425" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1588446589972">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -166,5 +170,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="65" y="88" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1587809515127" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1588953429279">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1588953429279" />
   </component>
 </project>
