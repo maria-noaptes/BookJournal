@@ -11,7 +11,8 @@ data class Book(
         var author: String = "",
         var status: Status = Status.STARTED,
         val startDate: String = LocalDateTime.now().dayOfMonth.toString()+"."+LocalDateTime.now().month.value+"."+LocalDateTime.now().year,
-        var finishDate: String = "not set"
+        var finishDate: String = "not set",
+        var review: String=""
 )
 enum class Status {
     STARTED,

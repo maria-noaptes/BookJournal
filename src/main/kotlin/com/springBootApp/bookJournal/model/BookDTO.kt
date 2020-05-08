@@ -12,7 +12,8 @@ data class BookDTO(
         val author: String = "",
         var status: StatusDTO = StatusDTO.STARTED,
         val startDate: String = LocalDateTime.now().dayOfMonth.toString()+"."+ LocalDateTime.now().month.value+"."+ LocalDateTime.now().year,
-        var finishDate: String = "not set"
+        var finishDate: String = "not set",
+        var review: String=""
 ) {
     @JvmOverloads
     constructor(bookDTO: BookDTO) : this() {
@@ -31,7 +32,8 @@ data class BookDTO(
                     author = author,
                     status = status.toStatus(),
                     startDate = startDate,
-                    finishDate = finishDate
+                    finishDate = finishDate,
+                    review = review
             )
 
     companion object {
@@ -42,7 +44,8 @@ data class BookDTO(
                         author = book.author,
                         status = StatusDTO.from(book.status),
                         startDate = book.startDate,
-                        finishDate = book.finishDate
+                        finishDate = book.finishDate,
+                        review = book.review
                 )
     }
 }

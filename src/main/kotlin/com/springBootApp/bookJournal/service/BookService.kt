@@ -23,15 +23,21 @@ class BookService (@Autowired
     fun updateBook(book: Book): Book? {
         try{
             val bookFound=bookRepository.findById(book.id).get()
+            if(book.review!="") bookFound.review=book.review
             if(bookFound.status==Status.valueOf("FINISHED")) {
                 logger.error{ "Can't change status of a finished book" }
-                return null
+                return bookRepository.save(bookFound)
             }
             bookRepository.delete(bookFound)
-            bookFound.status=book.status
+            try {
+                bookFound.status = book.status
+            }catch(e: IllegalArgumentException )
+            {
+                logger.error { "Incorrect status" }
+            }
             if(book.status == Status.valueOf("FINISHED")) bookFound.finishDate = LocalDateTime.now().dayOfMonth.toString() + "." + LocalDateTime.now().month.value + "." + LocalDateTime.now().year
             return bookRepository.save(bookFound)
-        }catch(e:NoSuchElementException)
+        }catch(e: NoSuchElementException)
         {
             logger.error { "Book ${book.id} not found" }
             return null
@@ -43,6 +49,17 @@ class BookService (@Autowired
             true
         } catch (e: NoSuchElementException) {
             logger.error(e) { "Book $id not found" }
+            false
+        }
+    }
+
+    fun deleteBooks(): Boolean
+    {
+        return try {
+        bookRepository.deleteAll()
+            true
+        } catch (e: NoSuchElementException) {
+            logger.error(e) { "No entries found in repository" }
             false
         }
     }

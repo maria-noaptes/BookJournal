@@ -34,10 +34,11 @@ Example:<br>
 emphasized as not yet set. The id will be the index in the database.
 
 * **PUT** http://\<host\>:\<port\>/books/\<id\>
->\+ body (status is required) in json format. Here is an example:
+>\+ body (status or/and review) in json format. Here is an example:
 >
 >{<br>
  "status": "ABANDONED",<br>
+>"review": awesome"
  } 
 ><br>
 >The options for the status are STARTED, IN_PROGRESS, ABANDONED, FINISHED. This request
@@ -51,6 +52,8 @@ emphasized as not yet set. The id will be the index in the database.
 * **GET** http://\<host\>:\<port\>/books\<id\>
 >With the id provided as a path variable you can also make a filtering of the results.
 >
+>* **DEL** http://\<host\>:\<port\>/books
+> Deletes all the entries found in the database.
 * **DEL** http://\<host\>:\<port\>/books\<id\>
  >It deletes an entry according to the id given.
 >

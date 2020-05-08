@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.data.mongo.MongoDataAutoConfigurat
 import org.springframework.boot.autoconfigure.mongo.MongoAutoConfiguration
 import org.springframework.boot.runApplication
 
-@SpringBootApplication//(exclude = [MongoAutoConfiguration::class/*,MongoDataAutoConfiguration::class*/])
+@SpringBootApplication
 class BookJournalApplication
 @Suppress("SpreadOperator")
 fun main(args: Array<String>) {

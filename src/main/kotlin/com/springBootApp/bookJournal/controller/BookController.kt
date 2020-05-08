@@ -53,6 +53,13 @@ class BookController(
                 ResponseEntity.notFound().build()
             }
 
+    @DeleteMapping
+    fun deleteBook(
+    ): ResponseEntity<String> =
+            if(bookService.deleteBooks())
+                ResponseEntity<String>("deleted",HttpStatus.OK)
+            else ResponseEntity<String>("nothing to delete",HttpStatus.NOT_FOUND)
+
     @DeleteMapping("/{id}")
     fun deleteBook(
             @PathVariable id: String
